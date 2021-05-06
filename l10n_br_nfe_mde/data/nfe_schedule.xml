@@ -36,9 +36,9 @@
                     <button string="Verificar" name="execute_download" type="object" class="oe_highlight"/> ou
                     <button string="Cancel" special="cancel" type="object" class="oe_link"/>
                 </footer>
-                <footer states="done">
+                <!--<footer states="done">
                     <button string="Done" name="done" type="object"/>
-                </footer>
+                </footer>-->
             </form>
         </field>
     </record>
